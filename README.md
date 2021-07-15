@@ -11,3 +11,5 @@ This Machine Learning course used Octave as the programming language to help non
 * ex6: Support Vector Machines
 * ex7: K-Means Clustering and PCA
 * ex8: Anomaly Detection and Recommender Systems
+
+Test comment
